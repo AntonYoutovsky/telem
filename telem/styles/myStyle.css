@@ -1,0 +1,110 @@
+body {
+    direction: rtl;
+    background: url('../images/back.jpg') no-repeat center top;
+    background-color:azure;
+    background-size:1400px;
+}
+#container{
+    width:1200px;
+    margin: 0 auto;
+  height:auto;
+}
+#telem{
+    margin-top:70px;
+
+}
+h1{
+    text-align:right;
+    margin-top:325px;
+    color:lightcoral;
+    font-weight:bold;
+    font-size:80px;
+    font-family:Tahoma;
+    
+    margin-bottom:450px;
+}
+h2 {
+    margin-top:40px;
+    color: lightcoral;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Tahoma;
+    text-align: right;
+}
+h3 {
+ margin-top:10px;
+    color: lightcoral;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Tahoma;
+    
+}
+ul {
+    list-style: none;
+    color: darkslateblue;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Tahoma;
+    text-align: right;
+}
+a {
+    width: 150px;
+    height: 100px;
+   
+   
+   
+    
+    
+}
+img:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+label{
+    margin-top:5px;
+    display:block;
+}
+input[type="text"]{
+    display:block;
+    margin-bottom:10px;
+}
+a img {
+    width: 150px;
+    height: 100px;
+}
+form{
+   display:inline-block;
+   position:relative;
+   right:500px;
+   bottom:200px;
+}
+#now {
+    display: inline-block;
+    position: relative;
+    right: 690px;
+    bottom: 312px;
+}
+ #one{
+    position:relative;
+  
+    right:500px;
+    bottom:100px;
+    width:50px;
+    height:50px;
+    margin-top:20px;
+}
+#tow {
+    position: relative;
+    margin-top: 10px;
+    right: 475px;
+    bottom: 125px;
+    width: 50px;
+    height: 50px;
+}
+#three {
+    position: relative;
+    margin-top: 2px;
+    right: 450px;
+    bottom: 150px;
+    width: 50px;
+    height: 50px;
+}
